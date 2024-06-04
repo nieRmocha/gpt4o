@@ -9,7 +9,7 @@ from PIL import Image, ImageTk  # Import Pillow library for image processing
 import json
 
 # OpenAI API Key
-api_key = "sk-proj-vylSrNOLXPMvC1cK7o2bT3BlbkFJUba70GQZCRiIpEgkdv1i"
+api_key = ""
 
 # Max Tokens : Default = 150
 max_tokens = 150
